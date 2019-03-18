@@ -1,0 +1,25 @@
+{
+    "statusCode": "1",
+    "statusMessage": "showing post comments",
+    "Result": {
+      "current_page": 1,
+      "data": [{
+          "comment":"Hey, that's just a simple comment"
+      },{
+          "comment":"Hey, that's a second one"
+      },{
+          "comment":"Hey, and that is the 3rd comment"
+      }],
+      "first_page_url": "http://yea.jobesk.com/Allposts?page=1",
+      "from": null,
+      "last_page": 1,
+      "last_page_url": "http://yea.jobesk.com/Allposts?page=1",
+      "next_page_url": null,
+      "path": "http://yea.jobesk.com/Allposts",
+      "per_page": 20,
+      "prev_page_url": null,
+      "to": null,
+      "total": 0
+    }
+  }
+  
